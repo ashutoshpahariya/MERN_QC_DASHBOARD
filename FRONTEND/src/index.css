@@ -1,0 +1,26 @@
+.ant-btn-primary{
+  background-color: #3fc060 !important;
+  border-color: #3fc060 !important;
+  color: pink;
+}
+
+jo order mai page change ho rhe hai drop dowmn number ke liye
+.ant-pagination-item-active{
+  border-color: green !important;
+} 
+li.ant-pagination-item-active a{
+  color: green !important;
+}
+
+.ant-menu-item-selected {
+  background-color:#3fc060 !important;
+}
+.ant-menu-item-selected span{
+  color:white !important;
+}
+.ant-menu-item-active {
+  color:green !important;
+}
+
+
+
